@@ -29,9 +29,6 @@ This dashboard solves these using interactive visual analytics.
 - docs/ → Documentation
 - sql/ → SQL queries
 
-## 📸 Dashboard Preview
-(Add screenshots here)
-
 ## 🚀 How to Use
 1. Download `.pbix`
 2. Open in Power BI Desktop
