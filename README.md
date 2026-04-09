@@ -1,7 +1,7 @@
 # 🏥 Columbia Asia Hospital Analysis (Power BI)
 
 ## 📸 Dashboard Preview
-
+<img src="dashboard1.png" width="700"/>
 <img src="hospital.png" width="700"/>
 ![Dashboard](dashboard1.png)
 ![Dashboard](hospital.png)
