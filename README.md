@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard1.png)
+![Dashboard](images/hospital.jpeg)
 ![Dashboard](images/dashboard2.png)
 
 ## 📊 Overview
