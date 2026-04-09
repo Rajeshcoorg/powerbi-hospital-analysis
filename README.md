@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-<img src="images/hospital.jpeg" width="800"/>
+<img src="images/dashboard1.png" width="800"/>
 
 ## 📊 Overview
 This project analyzes hospital operational data to uncover key insights related to patient visits, revenue, and performance across departments.
