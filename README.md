@@ -1,5 +1,10 @@
 # 🏥 Columbia Asia Hospital Analysis (Power BI)
 
+## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
+
 ## 📊 Overview
 This project analyzes hospital operational data to uncover key insights related to patient visits, revenue, and performance across departments.
 
